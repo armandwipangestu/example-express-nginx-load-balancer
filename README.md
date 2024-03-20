@@ -38,7 +38,7 @@ nginx -s reload
 
 - Trying hit api with `curl` and `jq`
 
-> **NOTE**: Try to hit or run this command moee than one, to see the effect.
+> **NOTE**: Try to hit or run this command more than one to see the effect.
 > You can use another endpoint `/products` also
 
 ```shell
