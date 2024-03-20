@@ -18,7 +18,7 @@ yarn global add pm2
 cd example-express-nginx-load-balancer && yarn
 ```
 
-- Start Express.js with PM
+- Start Express.js with `pm2`
 
 ```shell
 pm2 start
