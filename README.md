@@ -36,7 +36,10 @@ cp nginx.conf <location of nginx config>
 nginx -s reload
 ```
 
-- Trying hit api with curl and jq
+- Trying hit api with `curl` and `jq`
+
+> **NOTE**: Try to hit or run this command moee than one, to see the effect.
+> You can use another endpoint `/products` also
 
 ```shell
 curl http://localhost:8081/users | jq '.'
