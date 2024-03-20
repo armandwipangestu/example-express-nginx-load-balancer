@@ -1,0 +1,9 @@
+{
+  "name": "example-express-nginx-load-balancer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
